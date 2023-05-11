@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/css/main.c01c8d02.css",
+    "main.js": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/js/main.29bda429.js",
+    "static/js/787.633816a4.chunk.js": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/js/787.633816a4.chunk.js",
+    "static/media/laptop.jpg": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/logo.svg": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/index.html",
+    "main.c01c8d02.css.map": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/css/main.c01c8d02.css.map",
+    "main.29bda429.js.map": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/js/main.29bda429.js.map",
+    "787.633816a4.chunk.js.map": "/Xuan-Vinh-19-04-2002abcd/Ladingpage/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01c8d02.css",
+    "static/js/main.29bda429.js"
+  ]
+}
